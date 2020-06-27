@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 # Application definition
 
+#プロジェクトで有効にするアプリケーションを記述する。
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
